@@ -1,8 +1,10 @@
 {
+  "description": "Personal studio at the intersection of tech, culinary and business",
   "owner": {
-    "username": "phantomlee707-lang"
+    "username": "phantomlee707-lang",
+    "email": "phantomlee707@gmail.com"
   },
-  "records": {
-    "A": "161.33.193.36"
+  "record": {
+    "A": ["161.33.193.36"]
   }
 }
